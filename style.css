@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+input, button {
+  margin-top: 10px;
+  display: block;
+}
+
+#mensagem {
+  margin-top: 15px;
+  font-weight: bold;
+}
